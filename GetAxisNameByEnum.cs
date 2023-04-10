@@ -13,6 +13,9 @@ public enum E_Axis_Name
     Fire1,
     Fire2,
     Fire3,
+    Jump,
+    MouseX,
+    MouseY,
     MouseScrollWheel
 }
 /// <summary>
